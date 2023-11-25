@@ -1,0 +1,91 @@
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\bin\Debug\net6.0-windows\jetjang.exe
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\bin\Debug\net6.0-windows\jetjang.deps.json
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\bin\Debug\net6.0-windows\jetjang.runtimeconfig.json
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\bin\Debug\net6.0-windows\jetjang.dll
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\bin\Debug\net6.0-windows\jetjang.pdb
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.AssemblyReference.cache
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.Form1.resources
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.Properties.Resources.resources
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.GenerateResource.cache
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfoInputs.cache
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfo.cs
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.CoreCompileInputs.cache
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.dll
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\refint\jetjang.dll
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.pdb
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.genruntimeconfig.cache
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\ref\jetjang.dll
+C:\Users\SkyRoad\Desktop\shop\login\jetjang\jetjang\obj\Debug\net6.0-windows\jetjang.Form2.resources
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.exe
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.deps.json
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.runtimeconfig.json
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.dll
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.pdb
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.AssemblyReference.cache
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.Form1.resources
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.Properties.Resources.resources
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.GenerateResource.cache
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfoInputs.cache
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfo.cs
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.CoreCompileInputs.cache
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.dll
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\refint\jetjang.dll
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.pdb
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.genruntimeconfig.cache
+C:\Users\ZumenRayan\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\ref\jetjang.dll
+C:\Users\User\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.exe
+C:\Users\User\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.deps.json
+C:\Users\User\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.runtimeconfig.json
+C:\Users\User\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.dll
+C:\Users\User\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.pdb
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.Form1.resources
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.Properties.Resources.resources
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.GenerateResource.cache
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfo.cs
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.dll
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\refint\jetjang.dll
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.pdb
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.genruntimeconfig.cache
+C:\Users\User\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\ref\jetjang.dll
+D:\Desktop\desktop25\code\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.exe
+D:\Desktop\desktop25\code\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.deps.json
+D:\Desktop\desktop25\code\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.runtimeconfig.json
+D:\Desktop\desktop25\code\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.dll
+D:\Desktop\desktop25\code\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.pdb
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.AssemblyReference.cache
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.Form1.resources
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.Properties.Resources.resources
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.GenerateResource.cache
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfoInputs.cache
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfo.cs
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.CoreCompileInputs.cache
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.dll
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\refint\jetjang.dll
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.pdb
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.genruntimeconfig.cache
+D:\Desktop\desktop25\code\jet war project\jetjang\obj\Debug\net6.0-windows\ref\jetjang.dll
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.exe
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.deps.json
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.runtimeconfig.json
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.dll
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\bin\Debug\net6.0-windows\jetjang.pdb
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.AssemblyReference.cache
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.Form1.resources
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.Properties.Resources.resources
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.GenerateResource.cache
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfoInputs.cache
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.AssemblyInfo.cs
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.csproj.CoreCompileInputs.cache
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.dll
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\refint\jetjang.dll
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.pdb
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\jetjang.genruntimeconfig.cache
+C:\Users\SkyRoad\Desktop\jet war project\jetjang\obj\Debug\net6.0-windows\ref\jetjang.dll
